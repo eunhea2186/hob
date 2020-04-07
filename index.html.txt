@@ -3,7 +3,7 @@
 <body>
 <h1>Hello hob</h1>
 <script>
-	console.log("hello version2gdfg~");222
+	console.log("hello version222gdfg~");222
 </script>
 </body>
 </html>
